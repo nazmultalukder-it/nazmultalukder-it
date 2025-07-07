@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nazmultalukder-it/nazmultalukder-it/main/Animation_1751873440259.gif" alt="Animated Header" width="600"/>
+  <img src="https://raw.githubusercontent.com/nazmultalukder-it/nazmultalukder-it/main/Animation1751874919043.gif" alt="Animated Header" width="200"/>
 </p>
 
 <h3 align="center">
