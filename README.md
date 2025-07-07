@@ -49,7 +49,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nour484&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour484&layout=compact&theme=radical" alt="Top Languages" width="40%" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/Nour484/Nour484/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
