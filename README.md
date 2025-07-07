@@ -1,23 +1,11 @@
-<!-- 
-  This is the section for the header image.
-  You will need to replace the `src` URL with the URL to your own "Welcome to my" image.
-  You can create a similar image using a tool like Canva (canva.com) and upload it to your repository.
--->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nour484/Nour484/main/header.png" alt="Welcome to my profile" width="600"/>
 </p>
 
-<!-- 
-  This is the section title for your skills.
--->
 <h3 align="center">
   </> Some Languages and Tools
 </h3>
 
-<!-- 
-  This is the section for your skills badges.
-  The ` ` creates a space between badges.
--->
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
@@ -38,4 +26,30 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/> 
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nour484&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" alt="Tools" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nour484&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour484&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Nour484/Nour484/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
