@@ -1,51 +1,60 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nazmultalukder-it/nazmultalukder-it/main/Animation.gif" alt="Animated Header" width="200"/>
-</p>
+<div align="center">
+  
+  <!-- Waving Header Animation -->
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20I'm%20Nazmul!&fontSize=42&fontAlignY=40&desc=Flutter%20Developer%20|%20Open-Source%20Contributor&descSize=20&descAlignY=60)
+  
+  ---
 
-<h3 align="center">
-  </> Some Languages and Tools
-</h3>
+  ### **🛠️ Tech Stack**
+  #### **Languages & Frameworks**
+  <p>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,py" alt="Languages" />
+  </p>
+  
+  #### **Backend & Databases**
+  <p>
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,mongodb,mysql" alt="Backend" />
+  </p>
+  
+  #### **Tools & DevOps**
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" alt="Tools" />
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> 
-  <img src="https://img.shields.io/badge/API-E84D35?style=for-the-badge" alt="API"/> 
-  <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc"/> 
-  <img src="https://img.shields.io/badge/Cubit-FFC107?style=for-the-badge" alt="Cubit"/> 
-  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider"/> 
-</p>
+  ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Responsive_Design-F37C22?style=for-the-badge" alt="Responsive Design"/> 
-  <img src="https://img.shields.io/badge/Unit_Testing-F37C22?style=for-the-badge" alt="Unit Testing"/> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/> 
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
-</p>
+  ### **📈 GitHub Stats**
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmultalukder-it&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmultalukder-it&theme=nightowl&hide_border=true" width="48%" />
+  </div>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmultalukder-it&layout=compact&theme=nightowl&hide_border=true" width="45%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nazmultalukder-it&theme=onedark&no-frame=true&column=3" width="45%" />
+  </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/> 
-</p>
+  ---
 
----
+  ### **📫 Let's Connect!**
+  <p>
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:youremail@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/yourhandle">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+  </p>
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nazmultalukder-it&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
----
-
-### 🛠️ Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" alt="Tools" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmultalukder-it&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmultalukder-it&layout=compact&theme=radical" alt="Top Languages" width="40%" />
-</p>
+  <!-- Simple Footer -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nazmultalukder-it&label=Profile+Views&color=blueviolet&style=flat" />
+    • 
+    <a href="https://github.com/nazmultalukder-it?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore_My_Work-blueviolet?style=flat" />
+    </a>
+  </p>
+</div>
