@@ -38,7 +38,7 @@
 
   ### **📫 Let's Connect!**
   <p>
-    <a href="https://linkedin.com/in/yourprofile">
+    <a href="https://linkedin.com/in/nazmultalukder">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:youremail@example.com">
