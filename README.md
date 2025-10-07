@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Waving Header Animation -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20I'm%20Nazmul!&fontSize=42&fontAlignY=40&desc=Flutter%20Developer%20|%20Open-Source%20Contributor&descSize=20&descAlignY=60)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hey,%20I'm%20Nazmul!&fontSize=42&fontAlignY=20&desc=Flutter%20Developer%20|%20Open-Source%20Contributor&descSize=20&descAlignY=40)
   
   ---
 
